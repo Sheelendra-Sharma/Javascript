@@ -1,11 +1,11 @@
 # Javascript   
    
 ## Currency Converter   
-https://currency-converter-2g8ahip43-sheelendra-sharma.vercel.app   
+https://currency-converter-eight-chi.vercel.app/  
 
-## Tic Tac Toe   
-https://ticc-tac-gq4d93h70-sheelendra-sharma.vercel.app   
+## Tic Tac Toe 
+https://ticc-tac-toe.vercel.app/
 
 ## Rock Paper Scissors   
 
-https://rock-paper-scissors-qzsisg7fq-sheelendra-sharma.vercel.app 
+https://rock-paper-scissors-red-sigma.vercel.app
